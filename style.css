@@ -1,0 +1,39 @@
+h1 {
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+p {
+    text-align:center;
+    color: white;
+    background-color: black;
+}
+img {
+    width: 300px;
+}
+
+
+.container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+a{
+    text-align: center;
+}
+
+ul {
+    margin-left: 300px; 
+     color: white;
+}
+
+li, a,div {
+    color: white;
+    text-align: center;
+}
+
+body { 
+        background-image: url("fundo.gif");
+         background-color:whitesmoke ;
+      }
